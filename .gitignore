@@ -7,9 +7,4 @@ venv/
 env/
 
 # Local env
-.env.dev
-.environment.dev
-.env
 .environment
-.env.local
-.environment.local
